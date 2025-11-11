@@ -248,10 +248,6 @@ Following Jane Street's approach, this library embraces the idea that:
 - Tests serve triple duty as exploration tools, documentation, and regression guards
 - Seeing actual output is often more valuable than writing specific assertions
 
-## License
-
-MIT License - Use freely in your projects
-
 ## Contributing
 
 This is a standalone implementation inspired by the Jane Street article. Feel free to extend and adapt for your needs.
